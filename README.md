@@ -23,25 +23,23 @@ Computer Science Master's student and Data Engineer from Rome, Italy 🇮🇹
 
 ## 🎮 Interests
 
-- Open-source software
 - Data engineering and cloud technologies
 - Developer tools
-- Programming languages and DSLs
+- Programming languages
 - Video games, especially RPGs
-- Building side projects that are probably larger than originally planned
 
 ## 🔧 Technologies & Tools
 
 **Languages:** Python, Go, Java, SQL, TypeScript  
-**Data & Cloud:** Google Cloud, BigQuery, Dataflow, Airflow, PostgreSQL  
-**Development:** Git, GitHub Actions, Docker, Vue.js, FastAPI  
+**Data & Cloud:** Google Cloud, BigQuery, Dataflow, Airflow, Firestore, PostgreSQL  
+**Development:** Git, Docker, Vue.js, FastAPI  
 **Other:** OpenCV, WebSockets, WebRTC
 
 ## 🚀 Projects
 
 - 🪨 **[Nexolith](https://github.com/Reiver56/Nexolith)** — an open-source ETL framework written in Python
-- 🎲 **Piecewise** — a DSL and engine for defining board games
-- 🧠 **Face Recognition System** — a face verification project built with Python and OpenCV
+- 🎲 **[Piecewise](https://github.com/Reiver56/Piecewise)** — a DSL and engine for defining board games
+- 🧠 **[Face Recognition System](https://github.com/Reiver56/face-recognition)** — a face verification project built with Python and OpenCV
 
 ## 📫 Let's connect
 
