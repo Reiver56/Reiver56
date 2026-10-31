@@ -40,6 +40,8 @@ Computer Science Master's student and Data Engineer from Rome, Italy 🇮🇹
 - 🪨 **[Nexolith](https://github.com/Reiver56/Nexolith)** — an open-source ETL framework written in Python
 - 🎲 **[Piecewise](https://github.com/Reiver56/Piecewise)** — a DSL and engine for defining board games
 - 🧠 **[Face Recognition System](https://github.com/Reiver56/face-recognition)** — a face verification project built with Python and OpenCV
+- <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/c1b317f8-71f7-4df0-aee2-120cfc490458" /> **[AIsacco](https://github.com/Reiver56/AIsacco)** — Deep learning agent that learns to play The Binding of Isaac: Repentance (imitation learning + RL).
+
 
 ## 📫 Let's connect
 
